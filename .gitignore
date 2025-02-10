@@ -171,3 +171,5 @@ cython_debug/
 .pypirc
 # costum gitignore
 .virtual_documents/
+*.ipynb
+*.json
